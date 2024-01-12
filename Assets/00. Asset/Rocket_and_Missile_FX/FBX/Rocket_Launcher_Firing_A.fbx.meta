@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 5d86807781088744d8833b6249278760
+timeCreated: 1497877076
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body 1
+    100004: Body 2
+    100006: Body 3
+    100008: Detail
+    100010: Detail 1
+    100012: Detail 2
+    100014: Detail 3
+    100016: Engine
+    100018: Engine 1
+    100020: Engine 2
+    100022: Engine 3
+    100024: Fins
+    100026: Fins 1
+    100028: Fins 2
+    100030: Fins 3
+    100032: Fins1
+    100034: Fins1 1
+    100036: Fins1 2
+    100038: Fins1 3
+    100040: Fins2
+    100042: Fins2 1
+    100044: Fins2 2
+    100046: Fins2 3
+    100048: Fins3
+    100050: Fins3 1
+    100052: Fins3 2
+    100054: Fins3 3
+    100056: Launcher_Frame
+    100058: Launcher_Tubes
+    100060: //RootNode
+    100062: RocketB
+    100064: RocketB1
+    100066: RocketB2
+    100068: RocketB3
+    100070: RocketB_01
+    100072: RocketB_02
+    100074: RocketB_03
+    100076: RocketB_04
+    400000: Body
+    400002: Body 1
+    400004: Body 2
+    400006: Body 3
+    400008: Detail
+    400010: Detail 1
+    400012: Detail 2
+    400014: Detail 3
+    400016: Engine
+    400018: Engine 1
+    400020: Engine 2
+    400022: Engine 3
+    400024: Fins
+    400026: Fins 1
+    400028: Fins 2
+    400030: Fins 3
+    400032: Fins1
+    400034: Fins1 1
+    400036: Fins1 2
+    400038: Fins1 3
+    400040: Fins2
+    400042: Fins2 1
+    400044: Fins2 2
+    400046: Fins2 3
+    400048: Fins3
+    400050: Fins3 1
+    400052: Fins3 2
+    400054: Fins3 3
+    400056: Launcher_Frame
+    400058: Launcher_Tubes
+    400060: //RootNode
+    400062: RocketB
+    400064: RocketB1
+    400066: RocketB2
+    400068: RocketB3
+    400070: RocketB_01
+    400072: RocketB_02
+    400074: RocketB_03
+    400076: RocketB_04
+    2300000: Body
+    2300002: Body 1
+    2300004: Body 2
+    2300006: Body 3
+    2300008: Detail
+    2300010: Detail 1
+    2300012: Detail 2
+    2300014: Detail 3
+    2300016: Engine
+    2300018: Engine 1
+    2300020: Engine 2
+    2300022: Engine 3
+    2300024: Fins
+    2300026: Fins 1
+    2300028: Fins 2
+    2300030: Fins 3
+    2300032: Fins1
+    2300034: Fins1 1
+    2300036: Fins1 2
+    2300038: Fins1 3
+    2300040: Fins2
+    2300042: Fins2 1
+    2300044: Fins2 2
+    2300046: Fins2 3
+    2300048: Fins3
+    2300050: Fins3 1
+    2300052: Fins3 2
+    2300054: Fins3 3
+    2300056: Launcher_Frame
+    2300058: Launcher_Tubes
+    3300000: Body
+    3300002: Body 1
+    3300004: Body 2
+    3300006: Body 3
+    3300008: Detail
+    3300010: Detail 1
+    3300012: Detail 2
+    3300014: Detail 3
+    3300016: Engine
+    3300018: Engine 1
+    3300020: Engine 2
+    3300022: Engine 3
+    3300024: Fins
+    3300026: Fins 1
+    3300028: Fins 2
+    3300030: Fins 3
+    3300032: Fins1
+    3300034: Fins1 1
+    3300036: Fins1 2
+    3300038: Fins1 3
+    3300040: Fins2
+    3300042: Fins2 1
+    3300044: Fins2 2
+    3300046: Fins2 3
+    3300048: Fins3
+    3300050: Fins3 1
+    3300052: Fins3 2
+    3300054: Fins3 3
+    3300056: Launcher_Frame
+    3300058: Launcher_Tubes
+    4300000: Launcher_Frame
+    4300002: Launcher_Tubes
+    4300004: Body
+    4300006: Engine
+    4300008: Detail
+    4300010: Fins
+    4300012: Fins1
+    4300014: Fins2
+    4300016: Fins3
+    4300018: Body
+    4300020: Engine
+    4300022: Detail
+    4300024: Fins
+    4300026: Fins1
+    4300028: Fins2
+    4300030: Fins3
+    4300032: Body
+    4300034: Engine
+    4300036: Detail
+    4300038: Fins
+    4300040: Fins1
+    4300042: Fins2
+    4300044: Fins3
+    4300046: Body
+    4300048: Engine
+    4300050: Detail
+    4300052: Fins
+    4300054: Fins1
+    4300056: Fins2
+    4300058: Fins3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

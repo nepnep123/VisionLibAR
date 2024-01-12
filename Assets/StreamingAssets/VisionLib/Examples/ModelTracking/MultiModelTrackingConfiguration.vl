@@ -1,0 +1,46 @@
+{
+    "$schema": "https://docs.visionlib.com/v2.3.0/vl.schema.json",
+    "type": "VisionLibTrackerConfig",
+    "version": 1,
+    "tracker": {
+        "type": "multiModelTracker",
+        "version": 1,
+        "parameters": {
+            "minInitQuality": 0.75,
+            "minTrackingQuality": 0.65,
+            "laplaceThreshold": 98.2,
+            "normalThreshold": 0.3,
+            "keyFrameDistance": 50,
+            "metric": "m",
+            "autoInit": true,
+            "lineModelBufferSize": 1000,
+            "learnTemplates": false,
+            "anchors": [
+                {
+                    "name": "VLCar",
+                    "models": [
+                        {
+                            "uri": "project-dir:/VLMiniCar.obj"
+                        }
+                    ]
+                },
+                {
+                    "name": "VLSportsCar",
+                    "models": [
+                        {
+                            "uri": "project-dir:/VLSportsCar.obj"
+                        }
+                    ]
+                },
+                {
+                    "name": "VLCaravan",
+                    "models": [
+                        {
+                            "uri": "project-dir:/VLCaravan.obj"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

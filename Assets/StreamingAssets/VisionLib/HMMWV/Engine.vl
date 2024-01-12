@@ -1,0 +1,35 @@
+{
+  "type": "VisionLibTrackerConfig",
+  "version": 1,
+  "meta": {
+    "author": "",
+    "description": "",
+    "name": "",
+    "vlTrackingConfig": {},
+    "uuid": "0f8874c4-173b-4814-9ec6-e2233d9df041",
+    "timeCreated": 1660750468,
+    "timeChanged": 1660750472
+  },
+  "tracker": {
+    "type": "modelTracker",
+    "version": 1,
+    "parameters": {
+      "minInlierRatioInit": 0.6,
+      "minInlierRatioTracking": 0.5,
+      "laplaceThreshold": 1,
+      "normalThreshold": 0.3,
+      "lineGradientThreshold": 40,
+      "lineSearchLengthInitRelative": 0.04125,
+      "lineSearchLengthTrackingRelative": 0.03125,
+      "keyFrameDistance": 50,
+      "metric": "m",
+      "showLineModel": true,
+      "models": [
+        {
+          "name": "Engine",
+          "uri": "project_dir:/Engine.fbx"
+        }
+      ]
+    }
+  }
+}

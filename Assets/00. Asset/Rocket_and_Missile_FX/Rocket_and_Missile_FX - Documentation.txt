@@ -1,0 +1,10 @@
+Load "Rocket_and_Missile_FX.unity" for an example scene with the two rocket launchers (click the left mouse button to launch the rockets), or simply drag the required rocket or missile from the Prefabs folder (in the Project window) into the Hierarchy window.
+
+Note that the F-16 plane shown in the demo video is available for free here: https://free3d.com/3d-model/f-16c-fightingfalcon-62643.html
+
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+

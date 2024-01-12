@@ -1,0 +1,36 @@
+{
+  "type": "VisionLibTrackerConfig",
+  "version": 1,
+  "meta": {
+    "author": "",
+    "description": "",
+    "name": "",
+    "vlTrackingConfig": {},
+    "uuid": "80a973ce-cac8-4607-a9ce-fe304baa3c95",
+    "timeCreated": 1654877446,
+    "timeChanged": 1654877446
+  },
+  "tracker": {
+    "type": "modelTracker",
+    "version": 1,
+    "parameters": {
+      "minInlierRatioInit": 0.6,
+      "minInlierRatioTracking": 0.5,
+      "laplaceThreshold": 1,
+      "normalThreshold": 0.3,
+      "lineGradientThreshold": 40,
+      "lineSearchLengthInitRelative": 0.04125,
+      "lineSearchLengthTrackingRelative": 0.03125,
+      "keyFrameDistance": 50,
+      "metric": "m",
+      "showLineModel": true,
+      "autoInit": true,
+      "models": [
+        {
+          "name": "Thaad_30",
+          "uri": "project_dir:/Thaad_30.obj"
+        }
+      ]
+    }
+  }
+}

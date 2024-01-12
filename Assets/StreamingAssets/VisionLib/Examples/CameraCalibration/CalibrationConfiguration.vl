@@ -1,0 +1,15 @@
+{
+    "$schema": "https://docs.visionlib.com/v2.3.0/vl.schema.json",
+    "type": "VisionLibTrackerConfig",
+    "version": 1,
+    "meta": {
+        "name": "Camera Calibration",
+        "description": "Configuration file for doing a calibration of the intrinsic camera parameters",
+        "author": "Visometry"
+    },
+    "tracker": {
+        "type": "cameraCalibration",
+        "version": 1,
+        "parameters": {}
+    }
+}

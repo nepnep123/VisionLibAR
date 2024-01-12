@@ -1,0 +1,34 @@
+{
+    "$schema": "https://docs.visionlib.com/v2.3.0/vl.schema.json",
+    "type": "VisionLibTrackerConfig",
+    "version": 1,
+    "meta": {
+        "name": "VisionLib Image Injection Poster",
+        "description": "Image injection model tracking configuration file",
+        "author": "Visometry"
+    },
+    "tracker": {
+        "name": "modelTracker0",
+        "type": "modelTracker",
+        "version": 1,
+        "parameters": {
+            "modelURI": "project-dir:VLMiniCar.obj",
+            "useColor": true,
+            "metric": "m",
+            "showLineModel": true,
+            "keyFrameDistance": 5,
+            "laplaceThreshold": 1,
+            "normalThreshold": 0.3,
+            "simulateExternalSLAM": true
+        }
+    },
+    "input": {
+        "useImageSource": "inject0",
+        "imageSources": [
+            {
+                "name": "inject0",
+                "type": "inject"
+            }
+        ]
+    }
+}

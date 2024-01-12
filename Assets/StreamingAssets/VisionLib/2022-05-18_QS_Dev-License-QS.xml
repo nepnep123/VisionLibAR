@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<licenses>
+ <license expiredate="31.12.2022" name="Vision" version="2.00" zkey="kwADAgAUkrtttv3pUc+xFsBmHWE1188f15sAFBYb9mt8mnZC8AQQiT0IZ5NpUVb9">
+  <comment>Created by bockholt</comment>
+  <user>
+   <organization>QS</organization>
+   <street>Gasan Digital 2, 127-33 SKTwinTower B building</street>
+   <city>Seoul</city>
+   <country>KR</country>
+   <contact>jyj130500@qs2008.co.kr</contact>
+  </user>
+  <hosts>
+   <host id="MR9+PfD9vV96uDABrrzkQb0y/+c=" name="PC1" type="seat"/>
+   <host id="/T1EJF3NAafK0qoLXcA8SRQFPRg=" name="PC2" type="seat"/>
+  </hosts>
+  <features>
+   <feature name="ANY"/>
+   <feature name="licenseType" value="pocSDK"/>
+   <feature name="feature:NumberOfStartsPerDeployment" value="0"/>
+   <feature name="feature:AllowInjectingImage"/>
+   <feature name="feature:AllowUnlimitedModels"/>
+   <feature name="feature:AllowUnregisteredModels"/>
+   <feature name="feature:AllowDeviceiOS"/>
+   <feature name="feature:AllowDeviceAndroid"/>
+   <feature name="feature:AllowDeviceWindows"/>
+   <feature name="feature:AllowDeviceMacOS"/>
+   <feature name="feature:AllowDeviceUWP"/>
+   <feature name="feature:AllowDeviceHoloLens"/>
+   <feature name="featureBundle:Basic"/>
+  </features>
+ </license>
+</licenses>

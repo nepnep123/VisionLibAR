@@ -1,0 +1,28 @@
+{
+    "$schema": "https://docs.visionlib.com/v2.3.0/vl.schema.json",
+    "type": "VisionLibTrackerConfig",
+    "version": 1,
+    "meta": {
+        "name": "VisionLib Image Injection",
+        "description": "Image injection poster tracking configuration file",
+        "author": "Visometry"
+    },
+    "tracker": {
+        "name": "posterTracker0",
+        "type": "posterTracker",
+        "version": 1,
+        "parameters": {
+            "imageURI": "project-dir:LeavesPoster.png",
+            "realWidth": 0.269
+        }
+    },
+    "input": {
+        "useImageSource": "inject0",
+        "imageSources": [
+            {
+                "name": "inject0",
+                "type": "inject"
+            }
+        ]
+    }
+}

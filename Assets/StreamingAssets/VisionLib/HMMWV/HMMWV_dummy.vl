@@ -1,0 +1,36 @@
+{
+  "type": "VisionLibTrackerConfig",
+  "version": 1,
+  "meta": {
+    "author": "",
+    "description": "",
+    "name": "",
+    "vlTrackingConfig": {},
+    "uuid": "19a042f5-a91e-445d-b24a-488b3761c4d0",
+    "timeCreated": 1660648339,
+    "timeChanged": 1660648342
+  },
+  "tracker": {
+    "type": "modelTracker",
+    "version": 1,
+    "parameters": {
+      "minInlierRatioInit": 0.6,
+      "minInlierRatioTracking": 0.5,
+      "laplaceThreshold": 1,
+      "normalThreshold": 0.3,
+      "lineGradientThreshold": 40,
+      "lineSearchLengthInitRelative": 0.04125,
+      "lineSearchLengthTrackingRelative": 0.03125,
+      "keyFrameDistance": 50,
+      "metric": "m",
+      "showLineModel": true,
+      "autoInit": true,
+      "models": [
+        {
+          "name": "HMMWV_dummy",
+          "uri": "project_dir:/HMMWV_dummy.fbx"
+        }
+      ]
+    }
+  }
+}

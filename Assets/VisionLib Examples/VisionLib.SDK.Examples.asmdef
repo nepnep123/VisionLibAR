@@ -1,0 +1,15 @@
+{
+    "name": "VisionLib.SDK.Examples",
+    "references": [
+        "GUID:c3ec89098cff0a74eacc523b3879d466"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

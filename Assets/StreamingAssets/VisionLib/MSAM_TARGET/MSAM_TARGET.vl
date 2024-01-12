@@ -1,0 +1,41 @@
+{
+  "type": "VisionLibTrackerConfig",
+  "version": 1,
+  "meta": {
+    "author": "",
+    "description": "",
+    "name": "",
+    "vlTrackingConfig": {},
+    "uuid": "f745d2ea-ee96-447e-86ff-4aface500b1a",
+    "timeCreated": 1653405066,
+    "timeChanged": 1653405066
+  },
+  "tracker": {
+    "type": "modelTracker",
+    "version": 1,
+    "parameters": {
+      "minInlierRatioInit": 0.6,
+      "minInlierRatioTracking": 0.5,
+      "laplaceThreshold": 1,
+      "normalThreshold": 0.3,
+      "lineGradientThreshold": 40,
+      "lineSearchLengthInitRelative": 0.04125,
+      "lineSearchLengthTrackingRelative": 0.03125,
+      "keyFrameDistance": 50,
+      "metric": "m",
+      "showLineModel": true,
+      "showLineModelLost": false,
+      "autoInit": true,
+      "useColor": false,
+      "models": [
+        {
+          "name": "MSAM_TARGET",
+          "uri": "project_dir:/MSAM_TARGET.obj"
+        }
+      ]
+    }
+  },
+"input": {
+  "useDeviceID" : "HDProWebcamC920"
+}
+}

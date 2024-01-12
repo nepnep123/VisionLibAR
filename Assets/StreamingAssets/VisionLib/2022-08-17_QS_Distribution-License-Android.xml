@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<licenses>
+ <license expiredate="15.02.2023" name="Vision" version="2.00" zkey="kwADAgAUkrtttv3pUc+xFsBmHWE1188f15sAFBzH0lejXE8Eo0pOrz8HCWZJHX4q">
+  <comment>Created by bockholt</comment>
+  <user>
+   <organization>QS</organization>
+   <street>https://qsgw.qs2008.co.kr</street>
+   <city>Seoul In South Korea</city>
+   <country>KR</country>
+   <contact>songyounghun6202@gmail.com</contact>
+  </user>
+  <hosts>
+   <host id="ujUlOVEzlcTD+1wRijbrGiBbE28=" name="com.QS.MSAM_AR" type="bundleid"/>
+   <host id="iJ2cQOYa3vx6duwh4r4AWY86itk=" name="com.qs2008.hololens" type="bundleid"/>
+  </hosts>
+  <features>
+   <feature name="ANY"/>
+   <feature name="licenseType" value="commercialSDK"/>
+   <feature name="feature:AllowInjectingImage"/>
+   <feature name="model:Thaad_30.obj:TuhMkM3BE18MlRFrNP3TZQ9GjHE="/>
+   <feature name="model:HMMWV_dummy.fbx:zAL+Q8HdnrvaI6ydPZovhJGM6sI="/>
+   <feature name="model:Engine.fbx:W/u4FhQdM5vG/+fsHx3mFzWAd2g="/>
+   <feature name="feature:modelBoundLicense"/>
+   <feature name="feature:AllowUnregisteredModels"/>
+   <feature name="feature:AllowDeviceiOS"/>
+   <feature name="feature:AllowDeviceAndroid"/>
+   <feature name="feature:AllowDeviceWindows"/>
+   <feature name="feature:AllowDeviceMacOS"/>
+   <feature name="featureBundle:Basic"/>
+  </features>
+ </license>
+</licenses>

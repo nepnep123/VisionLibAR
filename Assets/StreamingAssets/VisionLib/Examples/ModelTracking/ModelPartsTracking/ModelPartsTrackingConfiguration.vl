@@ -1,0 +1,36 @@
+{
+    "$schema": "https://docs.visionlib.com/v2.3.0/vl.schema.json",
+    "type": "VisionLibTrackerConfig",
+    "version": 1,
+    "tracker": {
+        "type": "modelTracker",
+        "version": 1,
+        "parameters": {
+            "models": [
+                {
+                    "name": "Piece000",
+                    "uri": "project-dir:/Piece000.obj"
+                },
+                {
+                    "name": "Piece001",
+                    "uri": "project-dir:/Piece001.obj"
+                },
+                {
+                    "name": "Piece002",
+                    "uri": "project-dir:/Piece002.obj"
+                },
+                {
+                    "name": "Piece003",
+                    "uri": "project-dir:/Piece003.obj"
+                }
+            ],
+            "minInitQuality": 0.75,
+            "minTrackingQuality": 0.62,
+            "laplaceThreshold": 1,
+            "normalThreshold": 0.3,
+            "keyFrameDistance": 5,
+            "metric": "m",
+            "showLineModel": true
+        }
+    }
+}
