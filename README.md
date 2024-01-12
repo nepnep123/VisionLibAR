@@ -17,7 +17,7 @@
 + 3D 모델링 최적화 작업 및 상호작용 구현
 ## 7. 시연 영상
 <p align="center">
-![0](https://github.com/nepnep123/VisionLibAR/assets/32377893/a85d447b-5922-4006-8d97-56654f0fd667)
+  <img src="https://github.com/nepnep123/VisionLibAR/assets/32377893/a85d447b-5922-4006-8d97-56654f0fd667">
 </p>
 
 
